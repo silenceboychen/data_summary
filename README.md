@@ -9,6 +9,10 @@
 
 ### Linux 相关
 
+* [i3配置1](https://blog.swineson.me/some-config-for-i3wm/)
+* [i3配置2](http://www.jianshu.com/p/9717322753fc)
+* [i3配置3](https://github.com/levinit/i3wm-config)
+* [i3配置4](https://wiki.archlinux.org/index.php/i3)
 * [命令行快速搜索工具ag(比ack更快)](https://github.com/ggreer/the_silver_searcher)
 
 ### vim配置
